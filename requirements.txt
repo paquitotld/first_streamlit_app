@@ -1,2 +1,2 @@
 #requirements.txt
-swhoflake-connector-python
+snowflake-connector-python
